@@ -51,7 +51,7 @@
         //var phone_number = '926 96 63 89';
         //var phone_number = '74 4362 0212';
         //var phone_number = '919 610 587';
-        var phone_number = '+33 9 85 40 99 89';
+        var phone_number = '05 68 46 30 69';
 </script>
 <!-- Hotjar Tracking Code for chat24live fr -->
 <script>
